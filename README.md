@@ -1,3 +1,12 @@
+# Name : ANIRUDH GAUTAM
+# UID: 22BCS12994
+The assignment is done in the file uploaded above in the repository. It includes the following points:
+1. The title of the problem.
+2. The Problem Statement.
+3. Code Solution of the problem
+4. Output Screenshot.
+5. 
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QjJX_cA8)
 # Assignment2-APLAB-VISHALKUMAR-E18147 
 # Attache screenshot for each solution
